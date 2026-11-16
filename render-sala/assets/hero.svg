@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" fill="none" aria-hidden="true" focusable="false">
+    <defs>
+      <linearGradient id="sala-3-paper" x1=".14" y1="0" x2=".89" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#f1fff0"/><stop offset=".47" stop-color="#f1fff0"/><stop offset="1" stop-color="#c5e2d6"/></linearGradient>
+      <linearGradient id="sala-3-soft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c5e2d6"/><stop offset="1" stop-color="#6caa9b" stop-opacity=".7"/></linearGradient>
+      <linearGradient id="sala-3-ink" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#6caa9b"/><stop offset="1" stop-color="#174a4b"/></linearGradient>
+      <linearGradient id="sala-3-metal" x1=".15" y1="0" x2=".88" y2="1"><stop stop-color="#f1fff0"/><stop offset=".25" stop-color="#c6dca5"/><stop offset=".5" stop-color="#f1fff0"/><stop offset=".7" stop-color="#c6dca5"/><stop offset="1" stop-color="#6caa9b"/></linearGradient>
+      <radialGradient id="sala-3-sun" cx=".32" cy=".24" r=".8"><stop stop-color="#f1fff0"/><stop offset=".45" stop-color="#c6dca5"/><stop offset="1" stop-color="#6caa9b"/></radialGradient>
+      <radialGradient id="sala-3-haze"><stop stop-color="#c6dca5" stop-opacity=".6"/><stop offset="1" stop-color="#c6dca5" stop-opacity="0"/></radialGradient>
+      <radialGradient id="sala-3-bead" cx=".28" cy=".23" r=".8"><stop stop-color="#f1fff0"/><stop offset=".3" stop-color="#c5e2d6"/><stop offset=".74" stop-color="#6caa9b"/><stop offset="1" stop-color="#174a4b"/></radialGradient>
+      <filter id="sala-3-shadow" x="-35%" y="-35%" width="170%" height="180%"><feDropShadow dx="0" dy="13" stdDeviation="12" flood-color="#174a4b" flood-opacity=".2"/></filter>
+      <filter id="sala-3-glow" x="-70%" y="-70%" width="240%" height="240%"><feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#c6dca5" flood-opacity=".55"/></filter>
+    </defs><path d="M109 444C104 331 302 407 310 278S462 203 481 114" fill="none" stroke="url(#sala-3-metal)" stroke-width="3" stroke-linecap="round" opacity=".65"/>
+    <g filter="url(#sala-3-shadow)"><path d="M76 407Q133 369 193 405V437Q137 480 76 438Z" fill="url(#sala-3-ink)"/><ellipse cx="135" cy="407" rx="60" ry="28" fill="url(#sala-3-paper)"/>
+    <path d="M199 333Q256 297 314 333V362Q258 402 199 363Z" fill="url(#sala-3-ink)"/><ellipse cx="257" cy="333" rx="58" ry="27" fill="url(#sala-3-soft)"/>
+    <path d="M319 249Q374 215 431 249V277Q374 315 319 277Z" fill="url(#sala-3-ink)"/><ellipse cx="375" cy="249" rx="57" ry="26" fill="url(#sala-3-paper)"/>
+    <path d="M425 157Q478 126 532 157V181Q478 217 425 181Z" fill="url(#sala-3-ink)"/><ellipse cx="478" cy="157" rx="54" ry="24" fill="url(#sala-3-soft)"/>
+    <path d="M450 154V103C450 65 507 65 507 103V154H493V103Q478 83 464 103V154Z" fill="url(#sala-3-paper)"/>
+    </g><path d="M108 407Q136 394 163 407M230 333Q257 321 285 333M348 249Q375 237 402 249" fill="none" stroke="url(#sala-3-metal)" stroke-width="5" stroke-linecap="round"/>
+    <path d="M104 463C197 496 345 449 406 403" fill="none" stroke="url(#sala-3-ink)" stroke-width="2" opacity=".18" stroke-linecap="round"/>
+    <circle cx="208" cy="425" r="8" fill="url(#sala-3-metal)"/><circle cx="330" cy="352" r="7" fill="url(#sala-3-metal)"/><circle cx="443" cy="265" r="7" fill="url(#sala-3-metal)"/>
+    <path d="M121 246Q121 254 129 254Q121 254 121 262Q121 254 113 254Q121 254 121 246Z" fill="url(#sala-3-metal)" opacity=".8"/><path d="M289 123Q289 131 297 131Q289 131 289 139Q289 131 281 131Q289 131 289 123Z" fill="url(#sala-3-metal)" opacity=".8"/><path d="M542 316Q542 322 548 322Q542 322 542 328Q542 322 536 322Q542 322 542 316Z" fill="url(#sala-3-metal)" opacity=".8"/></svg>
