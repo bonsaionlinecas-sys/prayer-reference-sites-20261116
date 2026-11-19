@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "id": "azure-awqat",
+      "home": "https://awqat-alsala-cwcfg7fqdedubtf0.westus3-01.azurewebsites.net/",
+      "englishHome": "https://awqat-alsala-cwcfg7fqdedubtf0.westus3-01.azurewebsites.net/en/",
+      "name": "azure-awqat.zip",
+      "archiveSHA256": "c5ab962235c214f4991a4c20e666b0fe71cabc24d6cf4f9488f19e867b1f72af",
+      "bytes": 202636,
+      "htmlSHA256": "020cd0bc7a58919c8b886140cd33815055c8856fd721d933f0584f6144ee6670",
+      "englishHtmlSHA256": "c01c3076c81345da5cbd4d95b12e92124c8e5eca8495d9c09652142e929f0071"
+    },
+    {
+      "id": "azure-sala",
+      "home": "https://sala-sa-ffetahgha3esemc0.westus3-01.azurewebsites.net/",
+      "englishHome": "https://sala-sa-ffetahgha3esemc0.westus3-01.azurewebsites.net/en/",
+      "name": "azure-sala.zip",
+      "archiveSHA256": "860f1b14c422eb1e92e2d635d39a70501ba01c58f7fc82f3a4f74d453f69e739",
+      "bytes": 191323,
+      "htmlSHA256": "ca7aec37b55753a7a4c10325c973e92034dcb64edacb2842cf215ccdda4d09bc",
+      "englishHtmlSHA256": "3cbc419ba1a63a9b592de4cd5f7646f9799bfb4471f11649095721af4b3b41c7"
+    }
+  ]
+}
